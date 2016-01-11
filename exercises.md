@@ -2,14 +2,11 @@ All exercises must be done with commands. No clicking!
 
 ### Poem
 
-[What's this poem](https://github.com/jueyang/know-your-tools/tree/master/jan-academy-2016/commandandcontrol/poem)?
-
-1. Find out the title and author of the poem. Hint: `grep`
-2. Re-construct the poem. Hint: `cat`, redirection
+[What's this poem](https://github.com/jueyang/commandandcontrol/tree/master/poem)?
 
 ### How many restrurants has had mice problems in NYC?
 
-[Find out about it](https://github.com/jueyang/know-your-tools/tree/master/jan-academy-2016/commandandcontrol/inspections).
+[Find out about it](https://github.com/jueyang/commandandcontrol/tree/master/inspections).
 
 ### Name a kid
 
