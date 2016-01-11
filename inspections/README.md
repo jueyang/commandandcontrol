@@ -22,3 +22,7 @@ Get **DOHMH New York City Restaurant Inspection Results** from [NYC OpenData](ht
 6. Search for records that contain "mice" and create a new file
     - `grep -iw`
 7. Now look at the file again. Notice something? Right. How to deal with multiple records for one place.
+	- First, why are there multiple records?
+	- `sort -u -t, -k1,1`
+8. How many restraurants had mice?
+	- `wc -l`
